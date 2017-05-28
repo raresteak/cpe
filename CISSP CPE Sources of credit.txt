@@ -1,0 +1,23 @@
+= CISSP CPE Source of credit
+
+* Keep audit trail of activities.
+
+* Group A - related to domains
+* Group B - unrelated to domain, think soft skills or mgt development
+* 1CPE/Hour general rule.
+
+== My List
+* Conferences Group A related to domains.  Group unrelated to domains
+* Attending vendor presentations (educational aspect) - Group A
+* Higher Ed Group A, unrelated Group B
+
+* Podcasts Examples: Security Now, Security Weekly, Social Engineering Podcast Group A
+* Posdcasts Group B: Manager Tools
+* Books(w/review)(one per year)
+* Author book
+* Published Book Review, (longer than above)(one per year)
+* Magazine(w/review) ex ISC2 Magazine, SCMagazine
+* Reading whitepaper(w/review)
+* Webinars - ex BrightTalk, SAN's, Beyond Trust
+
+
