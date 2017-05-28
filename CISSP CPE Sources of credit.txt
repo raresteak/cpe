@@ -10,14 +10,13 @@
 * Conferences Group A related to domains.  Group unrelated to domains
 * Attending vendor presentations (educational aspect) - Group A
 * Higher Ed Group A, unrelated Group B
-
+* Toastmasters, Group B (soft skills development)
 * Podcasts Examples: Security Now, Security Weekly, Social Engineering Podcast Group A
-* Posdcasts Group B: Manager Tools
-* Books(w/review)(one per year)
+* Podcasts Group B: Manager Tools
+* Reading infosec books(w/review)(one per year)
 * Author book
+* Author whitepaper
 * Published Book Review, (longer than above)(one per year)
 * Magazine(w/review) ex ISC2 Magazine, SCMagazine
 * Reading whitepaper(w/review)
 * Webinars - ex BrightTalk, SAN's, Beyond Trust
-
-
