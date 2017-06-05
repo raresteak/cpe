@@ -19,4 +19,4 @@
 * Published Book Review, (longer than above)(one per year)
 * Magazine(w/review) ex ISC2 Magazine, SCMagazine
 * Reading whitepaper(w/review)
-* Webinars - ex BrightTalk, SAN's, Beyond Trust
+* Webinars - ex BrightTalk, SAN's (https://www.sans.org/webcasts/) , Beyond Trust (https://www.beyondtrust.com/resources/education/) , CompTia (https://www.comptia.org/events/webinars_
