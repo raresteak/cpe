@@ -7,6 +7,8 @@
 * 1CPE/Hour general rule.
 
 == My List
+* Proofpoint 5-WEEK SERIES ON PEOPLE-CENTRIC CYBERSECURITY https://go.proofpoint.com/cpe-webinar-series.html 5 CPE
+* Proofpoint CPE on Demand From email security to archive and compliance to CASB https://go.proofpoint.com/cpe-on-demand-webinars.html
 * Conferences Group A related to domains.  Group unrelated to domains
 * Attending vendor presentations (educational aspect) - Group A
 * Higher Ed Group A, unrelated Group B
