@@ -7,6 +7,7 @@
 * 1CPE/Hour general rule.
 
 ## CPE Sources
+* ISC2 Cybersecurity courses https://www.isc2.org/~/link.aspx?_id=6C0A5C880DE84BA4833F70D883596B86&_z=z
 * Proofpoint 5-WEEK SERIES ON PEOPLE-CENTRIC CYBERSECURITY https://go.proofpoint.com/cpe-webinar-series.html 5 CPE - Group A 
 * Proofpoint CPE on Demand From email security to archive and compliance to CASB https://go.proofpoint.com/cpe-on-demand-webinars.html  Group A
 * BeyondTrust Webcasts https://www.beyondtrust.com/resources/webcasts  look for the webcasts with the ISC2 logo - Group A
